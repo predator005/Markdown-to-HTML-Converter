@@ -1,0 +1,20 @@
+{
+  "name": "markdown-to-html-converter",
+  "version": "1.0.0",
+  "description": "A simple Markdown to HTML converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "predator005",
+  "license": "MIT",
+  "keywords": [
+    "markdown",
+    "converter",
+    "html"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/markdown-to-html-converter.git"
+  }
+}
